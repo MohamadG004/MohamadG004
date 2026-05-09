@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Mohamad, a software developer passionate about building full-stack applications, AI-powered tools, and scalable systems.
+I'm Mohamad, a software engineer focused on designing and building scalable, reliable, and user-focused software systems.
 
 ## 🚀 About Me
 - 💻 Focused on full-stack development, backend systems, and AI integration
-- 🛠️ Building projects with React, Next.js, FastAPI, Django, and Node.js
+- 🛠️ Building projects with modern frameworks, APIs, cloud technologies, and developer tools
 - 📚 Recently finished my Software Engineering degree at the University of Calgary
 - ⚡ Fun fact: I enjoy turning random ideas into side projects
 
