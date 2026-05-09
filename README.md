@@ -14,11 +14,11 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
 - Tools: Git, Docker, PostgreSQL, MySQL, Supabase
 
 ## 📌 Featured Projects
-- 📋 JobFlow — Full-stack job tracking application
-- 🏓 NetPong — Feature-rich Pong clone with procedural audio and custom rendering  
-- 📅 Tempo — Smart calendar app with recurring events and multiple views
+- 📋 JobFlow - Full-stack job tracking application
+- 🏓 NetPong - Feature-rich Pong clone with procedural audio and custom rendering  
+- 📅 Tempo - Smart calendar app with recurring events and multiple views
 
-## 📫 Connect With Me
+## 📫 Connect With Me!
 
 <table>
   <tr>
