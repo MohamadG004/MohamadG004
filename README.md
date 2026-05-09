@@ -53,7 +53,7 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/>
     </td>
     <td>
-      <a href="https://leetcode.com/u/MohamadG04/">LeetCode Profile • 100+ Problems Solved</a>
+      <a href="https://leetcode.com/MohamadG04/">LeetCode Profile • 100+ Problems Solved</a>
     </td>
   </tr>
 </table>
