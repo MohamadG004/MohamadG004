@@ -22,7 +22,7 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
 
 <table>
   <tr>
-    <td>
+    <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20"/>
     </td>
     <td>
@@ -31,7 +31,7 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
   </tr>
 
   <tr>
-    <td>
+    <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
     </td>
     <td>
@@ -40,7 +40,7 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
   </tr>
 
   <tr>
-    <td>
+    <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
     </td>
     <td>
@@ -49,7 +49,7 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
   </tr>
 
   <tr>
-    <td>
+    <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/>
     </td>
     <td>
