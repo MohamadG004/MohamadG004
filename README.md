@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MohamadG004/MohamadG004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamad, a software developer passionate about building full-stack applications, AI-powered tools, and scalable systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Focused on full-stack development, backend systems, and AI integration
+- 🛠️ Building projects with React, Next.js, FastAPI, Django, and Node.js
+- 📚 Recently finished my Software Engineering degree at the University of Calgary
+- ⚡ Fun fact: I enjoy turning random ideas into side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: Python, TypeScript, JavaScript, Java, SQL, C/C++
+- Frameworks: React, Next.js, FastAPI, Django, Node.js
+- Tools: Git, Docker, PostgreSQL, MySQL, Supabase
+
+## 📌 Featured Projects
+- 📋 JobFlow — Full-stack job tracking application
+- 🏓 NetPong — Feature-rich Pong clone with procedural audio and custom rendering  
+- 📅 Tempo — Smart calendar app with recurring events and multiple views
+
+## 📫 Connect With Me
+
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20"/>
+    </td>
+    <td>
+      <a href="mailto:mohamadghattas04@gmail.com">mohamadghattas04@gmail.com</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/mohamad-ghattas-1b0613331/">LinkedIn Profile</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
+    </td>
+    <td>
+      <a href="https://github.com/MohamadG004">GitHub Profile</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/>
+    </td>
+    <td>
+      <a href="https://leetcode.com/u/MohamadG04/">LeetCode Profile • 100+ Problems Solved</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+⭐ Thanks for visiting my profile!
