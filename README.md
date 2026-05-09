@@ -41,15 +41,6 @@ I'm Mohamad, a software engineer focused on designing and building scalable, rel
 
   <tr>
     <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
-    </td>
-    <td>
-      <a href="https://github.com/MohamadG004">GitHub Profile</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="display:flex; align-items:center; justify-content:center; height:32px; width:32px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20"/>
     </td>
     <td>
