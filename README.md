@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello! I'm Mohamad 👋
 
-I'm Mohamad, a software engineer focused on designing and building scalable, reliable, and user-focused software systems.
+I'm a software engineer focused on designing and building scalable, reliable, and user-focused software systems.
 
 ## 🚀 About Me
 - 💻 Focused on full-stack development, backend systems, and AI integration
